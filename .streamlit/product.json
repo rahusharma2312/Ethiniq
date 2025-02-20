@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Handwoven Scarf",
+        "image": "https://source.unsplash.com/300x300/?handmade,textile",
+        "price": 25,
+        "artisan": "Rajesh Kumar"
+    },
+    {
+        "name": "Beaded Necklace",
+        "image": "https://source.unsplash.com/300x300/?handmade,jewelry",
+        "price": 40,
+        "artisan": "Amina Yusuf"
+    }
+]
